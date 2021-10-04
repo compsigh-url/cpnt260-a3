@@ -1,11 +1,18 @@
-# CPNT 260
+# README
+
+## Course Title
+CPNT260 
+
+## Author Name
 Robin (Abishek Roka) Pradhan
 
+## Links
 * GitHub Repo : https://github.com/compsigh-url/cpnt260-a3/
 * GitHub Page : https://compsigh-url.github.io/cpnt260-a3/
 
-## Client : Myself
+## Client
+Myself
 
-Honestly there werent many major issues I ran into. The main one was layering the like button on top of the image in the gallery. I fixed it by putting both elemends inside of a div, then setting the main images position to relative. When I set the like button's position to absoloute, it sets the position based on the relative postion of its (nearest) ancestor; the image. 
+## Problem Solving
+I ran into an issue trying to get the google maps api to work. The solution was rather simple, I actually just google a tutorial on how to embed it. I honestly felt a little silly not being able to do it myself but it worked out. 
 
-Parts of my work were guided by W3Schools and CSS Tricks but all code is original/heavily edited. 
